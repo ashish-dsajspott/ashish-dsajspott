@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Blockchain and Cloud Computing**
+
+- 👯 I’m looking to collaborate on **Opensource Blockchain Projects**
+
+- 👨‍💻 All of my projects are available at [https://salmandabbakuti.github.io](https://salmandabbakuti.github.io)
+
+- 📝 I regulary write articles on [https://medium.com/@Salmandabbakuti](https://medium.com/@Salmandabbakuti)
+
+- 💬 Ask me about **Blockchain Stuf
